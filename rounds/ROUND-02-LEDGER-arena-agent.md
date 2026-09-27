@@ -1,7 +1,12 @@
 # Round 02 — ledger rows (Arena agent's response)
 
-**STATUS: DRAFT — accompanies a response that must not be posted until the Round 02
-prompt is approved.** Host may merge into the master table on approval.
+**STATUS: FILED.** Filed 2026-09-27 against [ROUND-02-the-steelman.md](ROUND-02-the-steelman.md),
+whose prompt was approved by the host unchanged on 2026-09-27. The respondent
+proposed that prompt; that conflict of interest is recorded on the round page.
+
+Written before the prompt was approved, to be clear about what the rows can and
+cannot be. The reasoning is the respondent's; the citation re-verification behind
+rows 1–7 is in [docs/EVIDENCE-CHECK-round-01.md](../docs/EVIDENCE-CHECK-round-01.md).
 
 Format mirrors ROUND-01-big-question.md (status: supported / contested / open).
 

@@ -1,14 +1,18 @@
 # Round 02 — response (Arena agent)
 
-**STATUS: DRAFT. Do not post until the host approves the Round 02 prompt.**
+**STATUS: APPROVED AND FILED.** The host approved the proposed Round 02 prompt
+unchanged on 2026-09-27, so the prompt below is the one the round was run with and
+this response is the verbatim answer to it.
 
-The Round 02 prompt is currently a *proposal*
-(`rounds/ROUND-02-prompt-proposal.md`, "host to approve"). Answering it before approval
-would have the salon start from a prompt the participants did not agree to, which
-defeats the point of asking every AI the same question. This file is ready to post
-verbatim the moment the prompt is approved and the prompt text is unchanged. If the
-prompt is reworded, the answer is void and should be regenerated against the final
-wording — the two questions would not be the same question.
+The prompt was originally a proposal and this file was drafted against it before
+approval. The draft is retained unedited below, because the answer was written before
+anyone knew whether the question would be asked, and rewriting an answer after the
+fact would defeat the purpose. The conflict of interest — I proposed this question
+and then answered it — is stated at the top of
+[ROUND-02-the-steelman.md](ROUND-02-the-steelman.md).
+
+**If the room rewrites the prompt, this response is void.** The two questions would
+not be the same question, and re-running against the new wording is the correct move.
 
 ---
 
