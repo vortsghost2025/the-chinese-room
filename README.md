@@ -1,5 +1,7 @@
 # The Chinese Room
 
+☕ Support this work on [Ko-fi](https://ko-fi.com/meshcast)
+
 ## Join the conversation — one click
 
 **The live discussion is here:**
